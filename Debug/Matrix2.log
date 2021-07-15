@@ -1,0 +1,15 @@
+﻿Построение начато 15.07.2021 16:09:17.
+     1>Проект "C:\По учёбе\ЛАБ ПРОГР\VSC\Matrix2\Matrix2\Matrix2.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Matrix2.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Matrix2.cpp
+         Matrix2.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\По учёбе\ЛАБ ПРОГР\VSC\Matrix2\Debug\Matrix2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\По учёбе\ЛАБ ПРОГР\VSC\Matrix2\Debug\Matrix2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\По учёбе\ЛАБ ПРОГР\VSC\Matrix2\Debug\Matrix2.lib" /MACHINE:X86 Debug\Functions.obj
+         Debug\Matrix2.obj
+         Debug\stdafx.obj
+         Matrix2.vcxproj -> C:\По учёбе\ЛАБ ПРОГР\VSC\Matrix2\Debug\Matrix2.exe
+     1>Построение проекта "C:\По учёбе\ЛАБ ПРОГР\VSC\Matrix2\Matrix2\Matrix2.vcxproj" завершено (целевые объекты Build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:02.23
